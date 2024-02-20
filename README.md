@@ -11,7 +11,7 @@ XenoGenesis is an interactive web application that uses the OpenAI API to genera
 
 ## Technologies Used
 
-- **Frontend**: React with Vite and TypeScript for a modern, efficient development experience.
-- **Backend**: Node.js serves as the backbone, managing communication with the OpenAI API and handling server-side logic.
-- **Database**: MongoDB/PostgreSQL for storing user data and generated content.
-- **API**: OpenAI API for generating content based on user inputs.
+- **Frontend**: React TypeScript 
+- **Backend**: Node.js
+- **Database**: MongoDB
+- **API**: OpenAI
